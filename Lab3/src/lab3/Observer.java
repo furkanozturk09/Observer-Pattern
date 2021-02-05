@@ -5,10 +5,7 @@
  */
 package lab3;
 
-/**
- *
- * @author aybuke.kececi
- */
+
 public interface Observer {
     
     void update(String channelName);
