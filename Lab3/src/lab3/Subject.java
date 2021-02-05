@@ -5,10 +5,7 @@
  */
 package lab3;
 
-/**
- *
- * @author aybuke.kececi
- */
+
 public interface Subject {
     public void registerObserver(Observer o);
     public void removeObservers(Observer o);
