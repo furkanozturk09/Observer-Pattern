@@ -5,10 +5,7 @@
  */
 package lab3;
 
-/**
- *
- * @author aybuke.kececi
- */
+
 public class GoldSub implements Observer{
     
     ChannelData cd;
