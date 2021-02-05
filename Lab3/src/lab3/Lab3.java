@@ -5,10 +5,7 @@
  */
 package lab3;
 
-/**
- *
- * @author aybuke.kececi
- */
+
 public class Lab3 {
 
     /**
